@@ -1,0 +1,1 @@
+Disable-NetAdapter -Name "Ethernet" -Confirm:$false; Enable-NetAdapter -Name "Wi-Fi" -Confirm:$false

@@ -1,0 +1,1 @@
+Enter-PSSession -ComputerName LRD-COMM02 -Credential t1-nld-rosendoga
